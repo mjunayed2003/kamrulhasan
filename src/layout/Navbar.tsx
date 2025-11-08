@@ -31,7 +31,7 @@ export function Navbar({children}:{children: React.ReactNode}) {
       <div className="container mx-auto flex h-16 items-center justify-between px-4 md:px-0">
         {/* Logo */}
         <div className="font-bold text-xl">
-          <Link href="/">MySite</Link>
+          <Link href="/">KAMRUL</Link>
         </div>
 
         {/* Desktop Navigation */}
